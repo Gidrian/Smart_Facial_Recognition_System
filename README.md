@@ -42,4 +42,4 @@ This project is licensed under the [MIT License](LICENSE.md).
 
 ---
 
-Thank you for your interest in the Smart Facial Recognition System project. For any questions or inquiries, please contact us at contact@facialrecognition.com. Together, we're enhancing security and access control through innovation!
+Thank you for your interest in the Smart Facial Recognition System project. For any questions or inquiries, please contact us at adrianpenayohck@gmail.com. Together, we're enhancing security and access control through innovation!
