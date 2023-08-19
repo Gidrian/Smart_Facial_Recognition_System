@@ -30,14 +30,6 @@ Our project includes an intuitive user interface that empowers administrators to
 
 ## Getting Started
 
-To get started with the Smart Facial Recognition System, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/your-username/smart-facial-recognition.git`
-2. Navigate to the project directory: `cd smart-facial-recognition`
-3. Install dependencies: `npm install`
-4. Configure the system settings in `config.js`.
-5. Run the system: `node app.js`
-
 Feel free to explore the codebase, contribute enhancements, and provide feedback.
 
 ## Contributions
