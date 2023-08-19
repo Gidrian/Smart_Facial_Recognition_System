@@ -1,4 +1,4 @@
-#The "Smart Facial Recognition System: Database Integration and Continuous Learning" 
+#The "Smart Facial Recognition System: Database Integration and Continuous Learning" #
 Is an innovative project designed to enhance security and streamline access control in various environments. This cutting-edge system utilizes advanced camera technology and sophisticated facial recognition algorithms to provide seamless and accurate identification of individuals.
 
 Key Features:
